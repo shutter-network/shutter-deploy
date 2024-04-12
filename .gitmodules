@@ -1,0 +1,8 @@
+[submodule "optimism"]
+	path = optimism
+	url = https://github.com/shutter-network/optimism
+	branch = shutter-develop
+[submodule "rolling-shutter"]
+	path = rolling-shutter
+	url = https://github.com/shutter-network/rolling-shutter
+	branch = feat/optimism
